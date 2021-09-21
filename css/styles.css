@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  width: 20%;
+  margin: 0 auto;
+  font-family: 'Merienda', cursive;
+  font-size: 4rem;
+}
+h2{
+  font-family: 'Rock Salt', cursive;
+  color: #476072;
+}
+p{
+  font-size: 1.3rem;
+  font-family: 'Berkshire Swash', cursive;
+  color: #911F27;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  margin: 0 auto;
+
+}
+h3{
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #38A3A5;
+}
+.profile{
+  padding: 100px 0;
+  background-color: #FEFBF3;
+
+}
+.contact-me{
+  background-color: #FEFBF3;
+  padding: 100px 0 50px;
+}
+.title-sub{
+  font-family: 'Courgette', cursive;
+  font-size: 1.2rem;
+}
+.top-container{
+  background-color: #E4F6F5;
+  padding-top: 60px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+  top: 20px;
+}
+.profile-pic{
+  width: 200px;
+  height: 200px;
+}
+.skills{
+  background-color: #E4F6F5;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.skill-row{
+  width:50%;
+  margin: 60px auto 100px;
+  text-align: left;
+  line-height: normal;
+}
+.book-pic{
+  width: 25%;
+  border-radius: 5%;
+  float: left;
+  margin-right: 30px;
+}
+.volleyball-pic{
+  height: 25%;
+  width: 25%;
+  border-radius: 5%;
+  float: right;
+  margin-left: 30px;
+}
+.hobbies{
+  font-size: 2.3rem;
+  margin-top: 0;
+
+}
+.copyright{
+  font-size: 12px;
+}
+.get-in-touch{
+font-family: 'Italianno', cursive;
+color: #F4D19B;
+font-size: 2.6rem;
+}
+.footer-link{
+  margin: 30px 15px;
+}
+.bottom-container{
+  padding-top: 30px;
+}
